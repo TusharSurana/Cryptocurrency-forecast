@@ -8,6 +8,8 @@ About the project:
   The primary function of the charts is to forecast the future prices and market capitalisation based on the historical data. 
   
 ![forecast page 1](https://user-images.githubusercontent.com/111977672/186446071-efdb48dd-0b58-4c92-b522-31360a85501b.png)
+![forecast page 2](https://user-images.githubusercontent.com/111977672/186478823-20addc81-4fe8-40d3-89e5-4c234865372e.png)
+
 
 
 
